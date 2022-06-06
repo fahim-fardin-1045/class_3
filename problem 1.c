@@ -15,8 +15,10 @@ int main()
 		printf("\n%d Rs. is the overtime pay of employee\n", extra);
 	}
 	else
+	{
 		printf("\nThis employ has not done overtime.\n");
-  }
+    }
  return 0;
  
      }
+ }
